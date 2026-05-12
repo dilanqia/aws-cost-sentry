@@ -115,3 +115,5 @@ pytest --cov=sentry --cov-report=term-missing
 ## License
 
 [MIT](LICENSE)
+
+<!-- history: 2026-05-12 -->
