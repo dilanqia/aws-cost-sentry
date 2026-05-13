@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-13
+
+- wip: anomaly detection module skeleton
+
 ## 2026-05-12
 
 - feat: bootstrapping project with basic setup
