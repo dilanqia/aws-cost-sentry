@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-15
+
+- feat: add core anomaly detection implementation
+
 ## 2026-05-13
 
 - wip: anomaly detection module skeleton
