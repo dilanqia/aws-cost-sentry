@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-17
+
+- feat: implement anomaly detection interface
+
 ## 2026-05-15
 
 - feat: add core anomaly detection implementation
