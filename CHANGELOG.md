@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-18
+
+- chore: add project configuration
+
 ## 2026-05-17
 
 - feat: implement anomaly detection interface
