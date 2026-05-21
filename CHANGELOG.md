@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-21
+
+- feat: add validation logic
+
 ## 2026-05-20
 
 - feat: implement anomaly detection interface
