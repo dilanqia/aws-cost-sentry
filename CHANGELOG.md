@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-23
+
+- refactor: restructure Slack integration module
+
 ## 2026-05-21
 
 - feat: add validation logic
