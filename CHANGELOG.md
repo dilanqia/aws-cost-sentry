@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-26
+
+- feat: error handling for cost API client
+
 ## 2026-05-23
 
 - refactor: restructure Slack integration module
