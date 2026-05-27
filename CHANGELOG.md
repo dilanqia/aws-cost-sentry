@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-27
+
+- test: add initial test suite
+
 ## 2026-05-26
 
 - feat: error handling for cost API client
