@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-28
+
+- feat: add validation logic
+
 ## 2026-05-27
 
 - test: add initial test suite
