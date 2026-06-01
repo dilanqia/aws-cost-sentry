@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- docs: update README with examples
+
 ## 2026-05-28
 
 - feat: add validation logic
