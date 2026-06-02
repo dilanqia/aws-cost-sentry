@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- test: add integration tests
+
 ## 2026-06-01
 
 - docs: update README with examples

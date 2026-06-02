@@ -133,3 +133,5 @@ pytest --cov=sentry --cov-report=term-missing
 <!-- history: 2026-05-27 -->
 
 <!-- history: 2026-05-28 -->
+
+<!-- history: 2026-06-02 -->
