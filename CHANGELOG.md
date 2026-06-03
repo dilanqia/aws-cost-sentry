@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-03
+
+- docs: add API documentation
+
 ## 2026-06-02
 
 - test: add integration tests
