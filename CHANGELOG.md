@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-04
+
+- fix: handle edge case in report generation
+
 ## 2026-06-03
 
 - docs: add API documentation
