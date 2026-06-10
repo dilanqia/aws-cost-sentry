@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- feat: add cost forecasting
+
 ## 2026-06-04
 
 - fix: handle edge case in report generation
